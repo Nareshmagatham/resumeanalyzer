@@ -36,3 +36,4 @@ Magatham Naresh Babu
 
 ## 📂 screenshots
 ![Alt text](https://github.com/Nareshmagatham/resumeanalyzer/blob/main/Screenshot%202025-09-07%20091159.png)
+![Alt text](https://github.com/Nareshmagatham/resumeanalyzer/blob/main/Screenshot%202025-09-07%20091218.png)
