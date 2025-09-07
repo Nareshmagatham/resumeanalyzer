@@ -34,5 +34,5 @@ A **full-stack web application** that allows users to upload resumes in PDF form
 Magatham Naresh Babu 
 ✉️ nareshmagatham@gmail.com
 
-## 📂 Project Structure
-
+## 📂 screenshots
+![Alt text](https://github.com/Nareshmagatham/resumeanalyzer/blob/main/Screenshot%202025-09-07%20091159.png)
